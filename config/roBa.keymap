@@ -86,7 +86,7 @@
 &kp LEFT_SHIFT  &kp LEFT_ALT  &kt LANGUAGE_5  &lt_to_layer_0 6 LEFT_WIN  &lt 3 LANGUAGE_5  &lt_to_layer_0 2 SPACE      &mkp RCLK          &mkp LCLK                             &kp LEFT_CONTROL
             >;
 
-            sensor-bindings = <&inc_dec_kp PAGE_DOWN PAGE_UP>;
+            sensor-bindings = <&inc_dec_kp PAGE_UP PAGE_DOWN>;
         };
 
         FUNCTION {
